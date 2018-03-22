@@ -1,2 +1,2 @@
-# CC-PowerShell
-Confederation College Powershell Snippets
+# Aurelia Repository
+Collection of Powershell Things
